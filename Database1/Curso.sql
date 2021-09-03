@@ -1,8 +1,7 @@
 ﻿CREATE TABLE [dbo].[Curso]
 (
 	[Cod] INT NOT NULL PRIMARY KEY, 
-    [Nombre] NCHAR(10) NULL, 
-    [Fecha_inicio] DATE NULL, 
-    [Duracion] NCHAR(10) NULL, 
-    [Valor] NCHAR(10) NULL
+    [Nombre] NVARCHAR(50) NOT NULL, 
+    [Fecha_inicio] DATE NOT NULL, 
+    [Duracion] INT NOT NULL 
 )
