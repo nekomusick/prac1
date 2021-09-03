@@ -3,5 +3,6 @@
 	[Cod] INT NOT NULL PRIMARY KEY, 
     [Nombre] NVARCHAR(50) NOT NULL, 
     [Fecha_inicio] DATE NOT NULL, 
-    [Duracion] INT NOT NULL 
+    [Duracion] INT NOT NULL, 
+    [Valor] INT NOT NULL 
 )
