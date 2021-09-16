@@ -1,3 +1,3 @@
 # prac1
-Repositorio de practica 
-carlos esteban garizabalo tilano
+Repositorio de practica Estudiante
+Carlos Esteban Garizabalo Tilano
