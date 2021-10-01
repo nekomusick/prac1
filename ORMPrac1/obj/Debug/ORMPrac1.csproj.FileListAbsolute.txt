@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\ORMPrac1\obj\Debug\ORMPrac1.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ORMPrac1\obj\Debug\ORMPrac1.Form1.resources
+C:\Users\usuario\source\repos\ORMPrac1\obj\Debug\ORMPrac1.Properties.Resources.resources
+C:\Users\usuario\source\repos\ORMPrac1\obj\Debug\ORMPrac1.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\ORMPrac1\obj\Debug\ORMPrac1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ORMPrac1\bin\Debug\ORMPrac1.exe.config
+C:\Users\usuario\source\repos\ORMPrac1\bin\Debug\ORMPrac1.exe
+C:\Users\usuario\source\repos\ORMPrac1\bin\Debug\ORMPrac1.pdb
+C:\Users\usuario\source\repos\ORMPrac1\bin\Debug\EntityFramework.dll
+C:\Users\usuario\source\repos\ORMPrac1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\source\repos\ORMPrac1\bin\Debug\EntityFramework.xml
+C:\Users\usuario\source\repos\ORMPrac1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\source\repos\ORMPrac1\obj\Debug\ORMPrac1.csproj.CopyComplete
+C:\Users\usuario\source\repos\ORMPrac1\obj\Debug\ORMPrac1.exe
+C:\Users\usuario\source\repos\ORMPrac1\obj\Debug\ORMPrac1.pdb
