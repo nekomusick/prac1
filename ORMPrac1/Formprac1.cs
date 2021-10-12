@@ -12,6 +12,9 @@ namespace ORMPrac1
 {
     public partial class Form1 : Form
     {
+        /// <summary>
+        /// aqui se convierten en vectores los cuales puedan ser vistas para el form 1
+        /// </summary>
         public List<Model.ALUMNO>oAlumno;
         public List<Model.APODERADO>oApoderado;
         public List<Model.CURSO>oCurso;
@@ -25,12 +28,16 @@ namespace ORMPrac1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //se llena el combobox
+            //se llena el combobox osea si se cambian variarian el orden de cada una 
             comboBox1.Items.Add("ALUMNO");
             comboBox1.Items.Add("APODERADO");
             comboBox1.Items.Add("CURSO");
             comboBox1.Items.Add("INSCRITO");
         }
+         /// <summary>
+         ///  en este combobox se hace los case 0 hasta el 3
+         ///  en el cual se ve que en cada uno se hace la busqueda de cada tabla correspondiente a la solicitada 
+         /// </summary>
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -57,7 +64,10 @@ namespace ORMPrac1
             Llenar();
 
         }
-
+        /// <summary>
+        /// simplemente son botones que sirven para dar click
+        /// </summary>
+        
         private void button1_Click(object sender, EventArgs e)
         {
             indice--;
@@ -76,6 +86,9 @@ namespace ORMPrac1
 
             string cadena = "";
 
+            ///aqui en el sig combobox se seleccionan de la tabla la informacion de cada alumno y se trae con lo escrito en ""
+            ///este tiene un mayor o = siendo este el contador de los alumnos el cual buscara
+            ///
             switch (comboBox1.SelectedIndex)
             {
 
@@ -111,6 +124,9 @@ namespace ORMPrac1
                     break;
             }
             textBox1.Text = cadena;
+            ///
+            /// aqui en este textbox se trae o muestra lo que se elegio por medio del switch osea la informacion que pidio
+            ///
         }
     }
 }
