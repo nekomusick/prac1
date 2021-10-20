@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\otravez\bin\Debug\otravez.exe.config
+C:\Users\usuario\source\repos\otravez\bin\Debug\otravez.exe
+C:\Users\usuario\source\repos\otravez\bin\Debug\otravez.pdb
+C:\Users\usuario\source\repos\otravez\bin\Debug\EntityFramework.dll
+C:\Users\usuario\source\repos\otravez\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\source\repos\otravez\bin\Debug\EntityFramework.xml
+C:\Users\usuario\source\repos\otravez\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\source\repos\otravez\obj\Debug\otravez.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\otravez\obj\Debug\otravez.Form1.resources
+C:\Users\usuario\source\repos\otravez\obj\Debug\otravez.Properties.Resources.resources
+C:\Users\usuario\source\repos\otravez\obj\Debug\otravez.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\otravez\obj\Debug\otravez.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\otravez\obj\Debug\otravez.csproj.CopyComplete
+C:\Users\usuario\source\repos\otravez\obj\Debug\otravez.exe
+C:\Users\usuario\source\repos\otravez\obj\Debug\otravez.pdb
