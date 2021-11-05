@@ -1,0 +1,10 @@
+C:\Users\usuario\source\repos\BDMercMax\bin\Debug\BDMercMax.dacpac
+C:\Users\usuario\source\repos\BDMercMax\bin\Debug\BDMercMax.dll
+C:\Users\usuario\source\repos\BDMercMax\bin\Debug\BDMercMax.pdb
+C:\Users\usuario\source\repos\BDMercMax\obj\Debug\BDMercMax.sqlproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\BDMercMax\obj\Debug\BDMercMax.dll
+C:\Users\usuario\source\repos\BDMercMax\obj\Debug\BDMercMax.pdb
+C:\Users\usuario\source\repos\BDMercMax\obj\Debug\Model.xml
+C:\Users\usuario\source\repos\BDMercMax\obj\Debug\refactor.xml
+C:\Users\usuario\source\repos\BDMercMax\obj\Debug\postdeploy.sql
+C:\Users\usuario\source\repos\BDMercMax\obj\Debug\predeploy.sql
