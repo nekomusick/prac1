@@ -1,0 +1,21 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Se está quitando la columna [dbo].[LugarStock].[cantidad_gondola]; puede que se pierdan datos.
+
+** Acciones del usuario
+     Modificar
+       [dbo].[LugarStock] (Tabla)
+     Crear
+       [dbo].[VerProductorBodega] (Procedimiento)
+       [dbo].[VerPuntos] (Procedimiento)
+
+** Acciones de compatibilidad
+
+Se está quitando la columna [dbo].[LugarStock].[cantidad_gondola]; puede que se pierdan datos.
+
