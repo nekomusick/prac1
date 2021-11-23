@@ -1,0 +1,23 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       Ninguno
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Cambiar nombre
+       [dbo].[Cliente].[fecha_nacimiento] (Columna)
+     Crear
+       [dbo].[GetCountFacturas] (Vista)
+       [dbo].[VerClientes] (Vista)
+       [dbo].[VerProducto] (Vista)
+       [dbo].[VerProductoPrecio] (Vista)
+       [dbo].[ActualizarGondola] (Procedimiento)
+       [dbo].[ActualizarPuntos] (Procedimiento)
+       [dbo].[GetIvaPuntos] (Procedimiento)
+
+** Acciones de compatibilidad

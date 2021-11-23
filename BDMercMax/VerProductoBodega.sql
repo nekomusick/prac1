@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE [dbo].[VerProductorBodega]
+﻿CREATE PROCEDURE [dbo].[VerProductoBodega]
 	@codProd int
 	
 AS
